@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+.pyc
+./kubectl
+./minikube-linux-amd64
+
